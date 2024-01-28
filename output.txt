@@ -1,0 +1,38 @@
+Enter the file path: Assignment_Timecard.xlsx
+
+Employees who have worked 7 consecutive days:
+Empty DataFrame
+Columns: [Employee Name, Position ID]
+Index: []
+
+Employees with short breaks between shifts:
+        Employee Name Position ID
+2     REsaXiaWE, XAis   WFS000065
+4     REsaXiaWE, XAis   WFS000065
+6     REsaXiaWE, XAis   WFS000065
+8     REsaXiaWE, XAis   WFS000065
+10    REsaXiaWE, XAis   WFS000065
+...               ...         ...
+1474  WgAyeW, RayCEWd   WFS000589
+1476  WgAyeW, RayCEWd   WFS000589
+1478  WgAyeW, RayCEWd   WFS000589
+1480  WgAyeW, RayCEWd   WFS000589
+1482  WgAyeW, RayCEWd   WFS000589
+
+[685 rows x 2 columns]
+
+Employees with long shifts:
+        Employee Name Position ID
+6     REsaXiaWE, XAis   WFS000065
+8     REsaXiaWE, XAis   WFS000065
+10    REsaXiaWE, XAis   WFS000065
+18    REsaXiaWE, XAis   WFS000065
+21    Sparks, KeWWeMh   WFS000101
+...               ...         ...
+1474  WgAyeW, RayCEWd   WFS000589
+1476  WgAyeW, RayCEWd   WFS000589
+1478  WgAyeW, RayCEWd   WFS000589
+1480  WgAyeW, RayCEWd   WFS000589
+1482  WgAyeW, RayCEWd   WFS000589
+
+[455 rows x 2 columns]
